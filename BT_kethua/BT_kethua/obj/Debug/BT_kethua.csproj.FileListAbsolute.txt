@@ -1,0 +1,7 @@
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\obj\Debug\BT_kethua.csproj.AssemblyReference.cache
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\obj\Debug\BT_kethua.csproj.CoreCompileInputs.cache
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\bin\Debug\BT_kethua.exe.config
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\bin\Debug\BT_kethua.exe
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\bin\Debug\BT_kethua.pdb
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\obj\Debug\BT_kethua.exe
+D:\C_C++_C#\C#\BT_kethua\BT_kethua\obj\Debug\BT_kethua.pdb

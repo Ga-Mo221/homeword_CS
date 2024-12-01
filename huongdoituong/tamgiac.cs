@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace huongdoituong
 {
-    internal class tamgiac
+    internal class tamgiac : Hinh
     {
         public static int solansudungtg;
         private double a;
@@ -32,9 +32,9 @@ namespace huongdoituong
         }
 
 
-        public tamgiac() { solansudungtg++; }// ham khong doi
+        public tamgiac() : base() { solansudungtg++; }// ham khong doi
 
-        public tamgiac(double a , double b, double c)
+        public tamgiac(string tenhinh, double a , double b, double c) : base(tenhinh)
         {
             this.a = a; this.b = b; this.c = c;
             solansudungtg++;
@@ -51,6 +51,7 @@ namespace huongdoituong
 
         public void nhap()
         {
+            base.nhap();
             this.a = double.Parse(Console.ReadLine());
             this.b = double.Parse(Console.ReadLine());
             this.c = double.Parse(Console.ReadLine());
@@ -72,6 +73,7 @@ namespace huongdoituong
 
         public void xuat()
         {
+            base.xuat();
             Console.WriteLine("canh a cua tam giac = " + this.a);
             Console.WriteLine("canh b cua tam giac = " + this.b);
             Console.WriteLine("canh c cua tam giac = " + this.c);

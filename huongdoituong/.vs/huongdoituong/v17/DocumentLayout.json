@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\chunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:chunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|d:\\c_c\u002B\u002B_c#\\c#\\huongdoituong\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|d:\\c_c\u002B\u002B_c#\\c#\\huongdoituong\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|d:\\c_c\u002B\u002B_c#\\c#\\huongdoituong\\chunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:chunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE619B58-4569-426D-803B-51E0D800A20E}|huongdoituong.csproj|solutionrelative:test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "hinhtron.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\hinhtron.cs",
               "RelativeDocumentMoniker": "hinhtron.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\hinhtron.cs",
               "RelativeToolTip": "hinhtron.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwCsAAAAQAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T07:48:35.708Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -62,27 +61,27 @@
               "RelativeDocumentMoniker": "Hinh.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\Hinh.cs",
               "RelativeToolTip": "Hinh.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAAAnAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:36:14.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\SinhVien.cs",
               "RelativeDocumentMoniker": "SinhVien.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\SinhVien.cs",
               "RelativeToolTip": "SinhVien.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:35:30.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "test.txt",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\test.txt",
               "RelativeDocumentMoniker": "test.txt",
@@ -90,38 +89,37 @@
               "RelativeToolTip": "test.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-28T12:37:19.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T12:37:19.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "chunhat.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\chunhat.cs",
               "RelativeDocumentMoniker": "chunhat.cs",
-              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\chunhat.cs",
-              "RelativeToolTip": "chunhat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\chunhat.cs*",
+              "RelativeToolTip": "chunhat.cs*",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T08:02:53.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "tamgiac.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\tamgiac.cs",
               "RelativeDocumentMoniker": "tamgiac.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\tamgiac.cs",
               "RelativeToolTip": "tamgiac.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:59:02.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\huongdoituong\\main.cs",
               "RelativeDocumentMoniker": "main.cs",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "main.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:19:53.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T12:19:53.098Z"
             }
           ]
         }

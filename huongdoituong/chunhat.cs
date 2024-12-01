@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace huongdoituong
 {
-    internal class chunhat
+    internal class chunhat : Hinh
     {
         public static int solansudung;
         private double a;
@@ -34,19 +34,21 @@ namespace huongdoituong
         }
 
 
-        public chunhat() { solansudung++; }
+        public chunhat() : base() { solansudung++; }
 
 
-        public chunhat(double a, double b)
+        public chunhat(string tenhinh, double a, double b) : base(tenhinh)
         {
             this.a = a;
             this.b = b;
+            base.tenhinh = tenhinh;
             solansudung++;
         }
 
 
         public void nhap()
         {
+            base.nhap();
             this.a = double.Parse(Console.ReadLine());
             this.b = double.Parse(Console.ReadLine());
         }
@@ -66,6 +68,7 @@ namespace huongdoituong
         
         public void xuat()
         {
+            base.xuat();
             Console.WriteLine("chieu dai hinh vuong = " + this.a);
             Console.WriteLine("chieu rong hinh vuong = " + this.b);
             Console.WriteLine("chu vi hinh vuong = " + chuvi());
