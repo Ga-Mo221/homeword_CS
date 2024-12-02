@@ -111,20 +111,20 @@ namespace BT_kethua
         public NhanVien Tim()
         {
             Console.Clear();
-            Console.WriteLine("Ban muon tim ai: ");
-            string name = Console.ReadLine();
+            Console.WriteLine("nhap id: ");
+            string id = Console.ReadLine();
             int slnvbc = Nvbc.soluongnvbc;
             int slnvhd = Nvhd.soluongnvhd;
             int rear = slnvbc + slnvhd;
             for (int i = 0; i < rear; i++)
             {
-                if (string.Compare(name, dsnv[i].TEN) == 0)
+                if (string.Compare(id, dsnv[i].ID) == 0)
                 {
                     dsnv[i].Xuat();
                     return dsnv[i];
                 }
             }
-            Console.WriteLine("khong co nguoi ten '{0}' nay", name);
+            Console.WriteLine("khong co nguoi mang id '{0}' nay", id);
             return null;
         }
 
