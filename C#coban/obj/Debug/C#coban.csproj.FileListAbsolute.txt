@@ -1,0 +1,7 @@
+D:\C_C++_C#\C#\C#coban\bin\Debug\C#coban.exe.config
+D:\C_C++_C#\C#\C#coban\bin\Debug\C#coban.exe
+D:\C_C++_C#\C#\C#coban\bin\Debug\C#coban.pdb
+D:\C_C++_C#\C#\C#coban\obj\Debug\C#coban.csproj.AssemblyReference.cache
+D:\C_C++_C#\C#\C#coban\obj\Debug\C#coban.csproj.CoreCompileInputs.cache
+D:\C_C++_C#\C#\C#coban\obj\Debug\C#coban.exe
+D:\C_C++_C#\C#\C#coban\obj\Debug\C#coban.pdb
