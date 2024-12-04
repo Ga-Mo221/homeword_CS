@@ -26,9 +26,14 @@ namespace BT_kethua
             int thamnien = base.tinhthamnien();
             if (thamnien >= 10)
             {
+<<<<<<< HEAD
                 phucap = (base.luongcoban + 500000) / 10;
             }
             else { phucap = (base.luongcoban + 200000) / 10; }
+=======
+                phucap = 500000;
+            } else { phucap = 200000; }
+>>>>>>> 058cb589029d5ec8b0ad99bfb1a8eb19eabf2a19
             return phucap;
         }
 

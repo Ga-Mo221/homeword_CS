@@ -50,8 +50,12 @@ namespace BT_kethua
                     case 3:
                         {
                             Console.Clear();
+<<<<<<< HEAD
                             DS.sapxep();
                             Console.WriteLine("sap xep thanh cong");
+=======
+                            Console.WriteLine("Chua co chuc nang nay");
+>>>>>>> 058cb589029d5ec8b0ad99bfb1a8eb19eabf2a19
                             end();
                             break;
                         }

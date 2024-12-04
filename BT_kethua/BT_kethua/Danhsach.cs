@@ -160,6 +160,7 @@ namespace BT_kethua
             }
             Console.WriteLine("khong co nhan vien co id la "+ id);
         }
+<<<<<<< HEAD
 
         public double getvalue(NhanVien nv)
         {
@@ -196,5 +197,7 @@ namespace BT_kethua
                 }
             }
         }
+=======
+>>>>>>> 058cb589029d5ec8b0ad99bfb1a8eb19eabf2a19
     }
 }
