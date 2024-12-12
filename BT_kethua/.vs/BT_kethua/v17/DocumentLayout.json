@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\nvbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\nvbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|d:\\c_c\u002B\u002B_c#\\c#\\bt_kethua\\bt_kethua\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\nvhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|d:\\c_c\u002B\u002B_c#\\c#\\bt_kethua\\bt_kethua\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\bt_kethua\\nvbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D485966-BBBA-4EF6-B4DC-F2A1C24A60B1}|BT_kethua\\BT_kethua.csproj|solutionrelative:bt_kethua\\nvbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,49 +34,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "data.txt",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\data.txt",
               "RelativeDocumentMoniker": "BT_kethua\\data.txt",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\data.txt",
               "RelativeToolTip": "BT_kethua\\data.txt",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAABAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-05T10:10:33.831Z"
+              "WhenOpened": "2024-12-05T10:10:33.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Nvhd.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\Nvhd.cs",
               "RelativeDocumentMoniker": "BT_kethua\\Nvhd.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\Nvhd.cs",
               "RelativeToolTip": "BT_kethua\\Nvhd.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAACMAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:10:33.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T10:10:33.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Danhsach.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\Danhsach.cs",
               "RelativeDocumentMoniker": "BT_kethua\\Danhsach.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\Danhsach.cs",
               "RelativeToolTip": "BT_kethua\\Danhsach.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAqwKAAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T10:10:33.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Nvbc.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\Nvbc.cs",
               "RelativeDocumentMoniker": "BT_kethua\\Nvbc.cs",
@@ -84,31 +88,29 @@
               "RelativeToolTip": "BT_kethua\\Nvbc.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAQwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:10:33.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T10:10:33.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\NhanVien.cs",
               "RelativeDocumentMoniker": "BT_kethua\\NhanVien.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\NhanVien.cs",
               "RelativeToolTip": "BT_kethua\\NhanVien.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAA+wGYAAABHAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwGYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:10:33.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T10:10:33.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BaiTap.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\BaiTap.cs",
               "RelativeDocumentMoniker": "BT_kethua\\BaiTap.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\BT_kethua\\BT_kethua\\BaiTap.cs",
               "RelativeToolTip": "BT_kethua\\BaiTap.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDYAAAAiAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwDYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T10:10:34.149Z",
               "EditorCaption": ""

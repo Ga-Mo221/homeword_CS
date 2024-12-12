@@ -8,7 +8,8 @@ namespace BT_kethua
 {
     internal class Danhsach
     {
-        private NhanVien[] dsnv = new NhanVien[100];
+        //private NhanVien[] dsnv = new NhanVien[100];
+        private List<NhanVien> dsnv;
 
         public void nhap()
         {
