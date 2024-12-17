@@ -1,0 +1,7 @@
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\obj\Debug\Q_L_ung_vien.csproj.AssemblyReference.cache
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\obj\Debug\Q_L_ung_vien.csproj.CoreCompileInputs.cache
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\bin\Debug\Q_L_ung_vien.exe.config
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\bin\Debug\Q_L_ung_vien.exe
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\bin\Debug\Q_L_ung_vien.pdb
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\obj\Debug\Q_L_ung_vien.exe
+D:\C_C++_C#\C#\Q_L_ung_vien\Q_L_ung_vien\obj\Debug\Q_L_ung_vien.pdb

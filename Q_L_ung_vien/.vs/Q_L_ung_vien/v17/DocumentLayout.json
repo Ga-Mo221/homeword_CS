@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\listcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\listcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|d:\\c_c\u002B\u002B_c#\\c#\\q_l_ung_vien\\q_l_ung_vien\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CANDIDATE.cs",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\CANDIDATE.cs",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\CANDIDATE.cs",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\CANDIDATE.cs",
+              "RelativeToolTip": "Q_L_ung_vien\\CANDIDATE.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:13:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "data.txt",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\data.txt",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\data.txt",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\data.txt",
+              "RelativeToolTip": "Q_L_ung_vien\\data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T18:42:43.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LISTCANDIDATE.cs",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\LISTCANDIDATE.cs",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\LISTCANDIDATE.cs",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\LISTCANDIDATE.cs",
+              "RelativeToolTip": "Q_L_ung_vien\\LISTCANDIDATE.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:04:04.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EXPERIENCE.cs",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\EXPERIENCE.cs",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\EXPERIENCE.cs",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\EXPERIENCE.cs",
+              "RelativeToolTip": "Q_L_ung_vien\\EXPERIENCE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:19:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\Program.cs",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\Program.cs",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\Program.cs",
+              "RelativeToolTip": "Q_L_ung_vien\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:09:24.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
