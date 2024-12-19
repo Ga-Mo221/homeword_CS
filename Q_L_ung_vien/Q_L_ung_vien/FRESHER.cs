@@ -40,6 +40,8 @@ namespace Q_L_ung_vien
         /// </summary>
         public void nhap()
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
             base.Nhap();
             Console.Write("Năm Tốt Nghiệp      : ");
             this.NamTotNghiep = Int16.Parse(Console.ReadLine());
@@ -55,6 +57,8 @@ namespace Q_L_ung_vien
         /// </summary>
         public override void Xuat()
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
             base.Xuat();
             Console.WriteLine("Năm Tốt Nghiệp      : " + this.NamTotNghiep);
             Console.WriteLine("Xếp Loại            : " + this.XepLoai);

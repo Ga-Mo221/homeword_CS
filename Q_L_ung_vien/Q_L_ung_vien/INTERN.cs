@@ -47,6 +47,8 @@ namespace Q_L_ung_vien
         /// </summary>
         public void nhap()
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
             base.Nhap();
             Console.Write("Năm Tốt Nghiệp DK   : ");
             this.NamDuKienTN = Int16.Parse(Console.ReadLine());
@@ -64,6 +66,8 @@ namespace Q_L_ung_vien
         /// </summary>
         public override void Xuat()
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
             base.Xuat();
             Console.WriteLine("Năm Tốt Nghiệp DK   : " + this.NamDuKienTN);
             Console.WriteLine("Ngành Học           : " + this.NganhHoc);

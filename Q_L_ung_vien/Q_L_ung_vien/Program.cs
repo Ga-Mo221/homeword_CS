@@ -52,11 +52,13 @@ namespace Q_L_ung_vien
                         }
                     case 3:
                         {
+                            list.xoa();
                             list.end();
                             break;
                         }
                     case 4:
                         {
+                            list.tim();
                             list.end();
                             break;
                         }

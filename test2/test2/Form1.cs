@@ -14,7 +14,7 @@ namespace test2
         private void textBox1_Click(object sender, EventArgs e)
         {
             i = Updateposition();
-            pic.Image = Image.FromFile("D:\\\\homeword\\\\C#\\\\test2\\\\nhin1.PNG");
+            pic.Image = Image.FromFile("D:\\\\C_C++_C#\\\\C#\\\\test2\\\\nhin1.PNG");
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -26,7 +26,7 @@ namespace test2
             }
             else
             {
-                pic.Image = Image.FromFile("D:\\\\homeword\\\\C#\\\\test2\\\\nhin27.PNG");
+                pic.Image = Image.FromFile("D:\\\\C_C++_C#\\\\C#\\\\test2\\\\nhin27.PNG");
             }
         }
 
@@ -38,7 +38,7 @@ namespace test2
         private string loadimg()
         {
             int j = i % 27;
-            return $"D:\\\\homeword\\\\C#\\\\test2\\\\nhin{j+1}.PNG";
+            return $"D:\\\\C_C++_C#\\\\C#\\\\test2\\\\nhin{j+1}.PNG";
         }
 
         private void dangnhap_Click(object sender, EventArgs e)
@@ -51,20 +51,20 @@ namespace test2
             if (sp % 2 != 0)
             {
                 tb_matkhau.UseSystemPasswordChar = true;
-                pic.Image = Image.FromFile("D:\\\\homeword\\\\C#\\\\test2\\\\nhammat.PNG");
+                pic.Image = Image.FromFile("D:\\\\C_C++_C#\\\\C#\\\\test2\\\\nhammat.PNG");
                 sp++;
             }
             else
             {
                 tb_matkhau.UseSystemPasswordChar=false;
-                pic.Image = Image.FromFile("D:\\\\homeword\\\\C#\\\\test2\\\\nhintrom.PNG");
+                pic.Image = Image.FromFile("D:\\\\C_C++_C#\\\\C#\\\\test2\\\\nhintrom.PNG");
                 sp--;
             }
         }
 
         private void tb_matkhau_Click(object sender, EventArgs e)
         {
-            pic.Image = Image.FromFile("D:\\\\homeword\\\\C#\\\\test2\\\\nhammat.PNG");
+            pic.Image = Image.FromFile("D:\\\\C_C++_C#\\\\C#\\\\test2\\\\nhammat.PNG");
         }
     }
 }

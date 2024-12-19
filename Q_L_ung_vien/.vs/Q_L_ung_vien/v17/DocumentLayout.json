@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|d:\\c_c\u002B\u002B_c#\\c#\\q_l_ung_vien\\q_l_ung_vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\listcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\listcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\fresher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\fresher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|d:\\c_c\u002B\u002B_c#\\c#\\q_l_ung_vien\\q_l_ung_vien\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\q_l_ung_vien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{87C2EFDE-E2B7-46AD-A750-2F60DC0E535D}|Q_L_ung_vien\\Q_L_ung_vien.csproj|solutionrelative:q_l_ung_vien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,19 +47,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FRESHER.cs",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\FRESHER.cs",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\FRESHER.cs",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\FRESHER.cs",
+              "RelativeToolTip": "Q_L_ung_vien\\FRESHER.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwDwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:29:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INTERN.cs",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\INTERN.cs",
+              "RelativeDocumentMoniker": "Q_L_ung_vien\\INTERN.cs",
+              "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\INTERN.cs",
+              "RelativeToolTip": "Q_L_ung_vien\\INTERN.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:28:53.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CANDIDATE.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\CANDIDATE.cs",
               "RelativeDocumentMoniker": "Q_L_ung_vien\\CANDIDATE.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\CANDIDATE.cs",
               "RelativeToolTip": "Q_L_ung_vien\\CANDIDATE.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAowAoAAAAgAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAawFUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:13:04.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T19:13:04.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "data.txt",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\data.txt",
               "RelativeDocumentMoniker": "Q_L_ung_vien\\data.txt",
@@ -63,39 +94,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LISTCANDIDATE.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\LISTCANDIDATE.cs",
               "RelativeDocumentMoniker": "Q_L_ung_vien\\LISTCANDIDATE.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\LISTCANDIDATE.cs",
               "RelativeToolTip": "Q_L_ung_vien\\LISTCANDIDATE.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAmwEEAAAAkAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwGoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T18:04:04.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T18:04:04.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EXPERIENCE.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\EXPERIENCE.cs",
               "RelativeDocumentMoniker": "Q_L_ung_vien\\EXPERIENCE.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\EXPERIENCE.cs",
               "RelativeToolTip": "Q_L_ung_vien\\EXPERIENCE.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAYAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T17:19:38.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T17:19:38.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\Program.cs",
               "RelativeDocumentMoniker": "Q_L_ung_vien\\Program.cs",
               "ToolTip": "D:\\C_C\u002B\u002B_C#\\C#\\Q_L_ung_vien\\Q_L_ung_vien\\Program.cs",
               "RelativeToolTip": "Q_L_ung_vien\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T16:09:24.9Z",
               "EditorCaption": ""

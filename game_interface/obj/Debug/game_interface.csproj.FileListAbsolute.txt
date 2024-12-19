@@ -1,0 +1,7 @@
+D:\C_C++_C#\C#\game_interface\bin\Debug\game_interface.exe.config
+D:\C_C++_C#\C#\game_interface\bin\Debug\game_interface.exe
+D:\C_C++_C#\C#\game_interface\bin\Debug\game_interface.pdb
+D:\C_C++_C#\C#\game_interface\obj\Debug\game_interface.csproj.AssemblyReference.cache
+D:\C_C++_C#\C#\game_interface\obj\Debug\game_interface.csproj.CoreCompileInputs.cache
+D:\C_C++_C#\C#\game_interface\obj\Debug\game_interface.exe
+D:\C_C++_C#\C#\game_interface\obj\Debug\game_interface.pdb

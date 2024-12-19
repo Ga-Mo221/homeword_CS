@@ -125,7 +125,26 @@ namespace Q_L_ung_vien
         /// </summary>
         public void xoa()
         {
+            Console.Write("nhập họ tên cần xóa: ");
+            string ten = Console.ReadLine();
 
+
+            if (liststaff != null)
+            {
+                for (int i = 0; i < liststaff.Count; i++)
+                {
+                    if (liststaff[i].HOTEN == ten)
+                    {
+                        liststaff.RemoveAt(i);
+                        if (i != liststaff.Count - 1)
+                            i--;
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("loi");
+            }
         }// end xoá
 
 
@@ -134,6 +153,27 @@ namespace Q_L_ung_vien
         /// </summary>
         public void tim()
         {
+            CANDIDATE ca = new CANDIDATE();
+
+            Console.Write("nhập họ tên cần tim: ");
+            string ten = Console.ReadLine();
+
+
+            if (liststaff != null)
+            {
+                foreach (CANDIDATE i in liststaff)
+                {
+                    if (ten == i.HOTEN)
+                    {
+                        ca = i;
+                        break;
+                    }
+                }
+            }
+            if (ca.HOTEN != null)
+            {
+                ca.Xuat();
+            }
 
         }// end tìm
     }

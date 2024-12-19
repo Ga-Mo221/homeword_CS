@@ -58,6 +58,8 @@ namespace Q_L_ung_vien
         /// </summary>
         public void Nhap()
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
             Console.Write("Họ Tên              : ");// nhap Họ tên
             this.Hoten = Console.ReadLine();
 
@@ -80,6 +82,8 @@ namespace Q_L_ung_vien
         /// </summary>
         public virtual void Xuat()
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("StaffCode           : " + this.staffCode);
             Console.WriteLine("Họ và Tên           : " + this.Hoten);
             Console.WriteLine("Ngày Sinh           : " + this.NgaySing.ToString("dd/MM/yyyy"));

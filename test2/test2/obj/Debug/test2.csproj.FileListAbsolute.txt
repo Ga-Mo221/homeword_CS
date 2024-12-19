@@ -8,3 +8,13 @@ D:\homeword\C#\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
 D:\homeword\C#\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
 D:\homeword\C#\test2\test2\obj\Debug\test2.exe
 D:\homeword\C#\test2\test2\obj\Debug\test2.pdb
+D:\C_C++_C#\C#\test2\test2\bin\Debug\test2.exe.config
+D:\C_C++_C#\C#\test2\test2\bin\Debug\test2.exe
+D:\C_C++_C#\C#\test2\test2\bin\Debug\test2.pdb
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.window_dangnhap.resources
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.Properties.Resources.resources
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.exe
+D:\C_C++_C#\C#\test2\test2\obj\Debug\test2.pdb
