@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\bin\Debug\PictureBoxGUI.exe.config
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\bin\Debug\PictureBoxGUI.exe
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\bin\Debug\PictureBoxGUI.pdb
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.Properties.Resources.resources
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.exe
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.pdb
+D:\homeword\homeword_CS\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.Login.resources
