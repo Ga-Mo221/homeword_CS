@@ -1,0 +1,33 @@
+﻿1
+3
+
+1
+nguyen van hau
+22/01/2001
+quang nam
+0807525810
+gamo123@gmail.com
+2
+C
+vtc
+
+2
+vu thi hoai
+31/08/2001
+bac giang
+0123456789
+vuthihoaiiii3108@gmail.com
+2019
+Gioi
+bac giang 1
+
+3
+pham xuan thiet
+16/03/2001
+Gia Lai
+7432979802
+Phamxuanthiet1603@gmail.com
+2024
+it 
+4
+DH bach khoa
