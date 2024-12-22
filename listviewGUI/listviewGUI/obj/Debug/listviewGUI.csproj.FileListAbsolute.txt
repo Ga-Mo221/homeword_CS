@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\bin\Debug\listviewGUI.exe.config
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\bin\Debug\listviewGUI.exe
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\bin\Debug\listviewGUI.pdb
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.Form1.resources
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.Properties.Resources.resources
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.exe
+D:\homeword\homeword_CS\listviewGUI\listviewGUI\obj\Debug\listviewGUI.pdb

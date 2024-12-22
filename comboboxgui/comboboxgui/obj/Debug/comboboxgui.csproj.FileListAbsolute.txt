@@ -8,3 +8,13 @@ D:\homeword\C#\comboboxgui\comboboxgui\obj\Debug\comboboxgui.csproj.GenerateReso
 D:\homeword\C#\comboboxgui\comboboxgui\obj\Debug\comboboxgui.csproj.CoreCompileInputs.cache
 D:\homeword\C#\comboboxgui\comboboxgui\obj\Debug\comboboxgui.exe
 D:\homeword\C#\comboboxgui\comboboxgui\obj\Debug\comboboxgui.pdb
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\bin\Debug\comboboxgui.exe.config
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\bin\Debug\comboboxgui.exe
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\bin\Debug\comboboxgui.pdb
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.Form1.resources
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.Properties.Resources.resources
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.exe
+D:\homeword\homeword_CS\comboboxgui\comboboxgui\obj\Debug\comboboxgui.pdb

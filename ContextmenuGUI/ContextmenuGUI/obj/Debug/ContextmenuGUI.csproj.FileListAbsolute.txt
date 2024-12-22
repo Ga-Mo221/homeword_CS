@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\bin\Debug\ContextmenuGUI.exe.config
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\bin\Debug\ContextmenuGUI.exe
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\bin\Debug\ContextmenuGUI.pdb
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.Form1.resources
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.Properties.Resources.resources
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.exe
+D:\homeword\homeword_CS\ContextmenuGUI\ContextmenuGUI\obj\Debug\ContextmenuGUI.pdb

@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\bin\Debug\ToolTipGUI.exe.config
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\bin\Debug\ToolTipGUI.exe
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\bin\Debug\ToolTipGUI.pdb
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.Form1.resources
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.Properties.Resources.resources
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.exe
+D:\homeword\homeword_CS\ToolTipGUI\ToolTipGUI\obj\Debug\ToolTipGUI.pdb

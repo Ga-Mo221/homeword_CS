@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\bin\Debug\MenustripGUI.exe.config
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\bin\Debug\MenustripGUI.exe
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\bin\Debug\MenustripGUI.pdb
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.Form1.resources
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.Properties.Resources.resources
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.exe
+D:\homeword\homeword_CS\MenustripGUI\MenustripGUI\obj\Debug\MenustripGUI.pdb

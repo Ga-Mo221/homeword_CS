@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\bin\Debug\NotifyiconGUI.exe.config
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\bin\Debug\NotifyiconGUI.exe
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\bin\Debug\NotifyiconGUI.pdb
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.Form1.resources
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.Properties.Resources.resources
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.exe
+D:\homeword\homeword_CS\NotifyiconGUI\NotifyiconGUI\obj\Debug\NotifyiconGUI.pdb

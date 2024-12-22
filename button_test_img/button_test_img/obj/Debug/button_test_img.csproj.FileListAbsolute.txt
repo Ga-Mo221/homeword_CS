@@ -1,0 +1,10 @@
+D:\homeword\homeword_CS\button_test_img\button_test_img\bin\Debug\button_test_img.exe.config
+D:\homeword\homeword_CS\button_test_img\button_test_img\bin\Debug\button_test_img.exe
+D:\homeword\homeword_CS\button_test_img\button_test_img\bin\Debug\button_test_img.pdb
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.csproj.AssemblyReference.cache
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.Form1.resources
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.Properties.Resources.resources
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.csproj.GenerateResource.cache
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.csproj.CoreCompileInputs.cache
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.exe
+D:\homeword\homeword_CS\button_test_img\button_test_img\obj\Debug\button_test_img.pdb
